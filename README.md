@@ -1,3 +1,4 @@
 # filesharing
 Java Swing - Socket
-2019
+
+(c) 2019
